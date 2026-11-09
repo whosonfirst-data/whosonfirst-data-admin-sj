@@ -308,7 +308,7 @@
         "gn:id":6954612
     },
     "wof:country":"SJ",
-    "wof:geomhash":"1acdce0733c00ebde78873342487b169",
+    "wof:geomhash":"d48361cde024f9639db53158e5cc6f5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -333,5 +333,5 @@
     -8.638,
     70.94984000000002
 ],
-  "geometry": {"coordinates":[-8.638,70.94984000000002],"type":"Point"}
+  "geometry": {"coordinates":[-8.638,70.94984],"type":"Point"}
 }
